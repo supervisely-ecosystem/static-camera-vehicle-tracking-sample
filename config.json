@@ -1,0 +1,12 @@
+{
+    "name": "Static camera vehicle tracking Video Sample Annotated",
+    "description": "Annotated sample project with videos of moving vehicles captured by a static camera.",
+    "type": "project",
+    "categories": [
+        "import",
+        "videos",
+        "project"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/icon.png",
+    "icon_cover": true
+}

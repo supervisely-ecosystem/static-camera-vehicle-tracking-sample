@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "title": "car",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#02C2FF",
+            "geometry_config": {},
+            "id": 194686,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "videos",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}
