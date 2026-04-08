@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-# Static Camera Vehicle Tracking
+# Highway Vehicle Tracking from Static Camera Video Sample Annotated
 
 <p align="center">
   <a href="#overview">Overview</a> •
