@@ -33,7 +33,7 @@ Static camera tracking refers to monitoring and tracking objects (in this case, 
 - toll booth systems
 - road safety analytics
 
-<video src="https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/vehiclesdemo.mp4" controls width="100%"></video>
+<img src="https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/vehiclesdemo.gif" />
 
 ## How this project helps users
 
