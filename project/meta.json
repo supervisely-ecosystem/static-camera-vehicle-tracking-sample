@@ -10,7 +10,18 @@
             "hotkey": ""
         }
     ],
-    "tags": [],
+    "tags": [
+        {
+            "name": "no-objects",
+            "value_type": "none",
+            "color": "#FF0000",
+            "id": 35985,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        }
+    ],
     "projectType": "videos",
     "projectSettings": {
         "multiView": {

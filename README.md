@@ -8,7 +8,6 @@
   <a href="#overview">Overview</a> •
   <a href="#what-is-static-camera-tracking">What is static camera tracking?</a> •
   <a href="#how-this-project-helps-users">How this project helps users</a> •
-  <a href="#project-structure">Project structure</a> •
   <a href="#download">Download</a>
 </p>
 
