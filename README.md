@@ -20,7 +20,7 @@
 
 ## Overview
 
-This is an annotated sample project featuring videos of moving vehicles captured by a static camera. The project demonstrates vehicle tracking capabilities with pre-annotated bounding boxes, making it ideal for computer vision workflows focused on traffic analysis and vehicle monitoring.
+This is an annotated sample project featuring videos of moving vehicles captured by a static camera. The project demonstrates vehicle tracking capabilities with pre-annotated bounding boxes created using automated [AutoTrack](https://docs.supervisely.com/labeling/labeling-toolbox/videos-3.0#auto-tracking), eliminating the need for manual frame-by-frame annotation. This makes it ideal for computer vision workflows focused on traffic analysis and vehicle monitoring.
 
 <img src="https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/vehicles.png" />
 
