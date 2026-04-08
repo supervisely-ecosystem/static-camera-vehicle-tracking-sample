@@ -21,34 +21,33 @@
 
 ## Overview
 
-This is an annotated sample project featuring videos of moving vehicles captured by a static camera. The project demonstrates vehicle tracking capabilities with pre-annotated bounding boxes and tracking IDs, making it ideal for computer vision workflows focused on traffic analysis and vehicle monitoring.
+This is an annotated sample project featuring videos of moving vehicles captured by a static camera. The project demonstrates vehicle tracking capabilities with pre-annotated bounding boxes, making it ideal for computer vision workflows focused on traffic analysis and vehicle monitoring.
 
-<img src="https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/screenshot.png" />
+<img src="https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/vehicles.png" />
 
 ## What is static camera tracking?
 
 Static camera tracking refers to monitoring and tracking objects (in this case, vehicles) from a fixed camera position. This setup is widely used in:
 
-- traffic monitoring and flow analysis,
-- parking lot surveillance,
-- toll booth systems,
-- road safety analytics.
+- traffic monitoring and flow analysis
+- parking lot surveillance
+- toll booth systems
+- road safety analytics
+
+<img src="https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/vehiclesdemo.mp4" />
 
 ## How this project helps users
 
 This annotated project provides ready-to-use training or validation data for:
 
-- testing vehicle detection and tracking algorithms,
-- training custom computer vision models,
-- validating tracking accuracy and performance,
-- demonstrating multi-object tracking capabilities,
-- learning Supervisely video annotation format.
+- testing vehicle detection and tracking algorithms
+- training custom computer vision models
+- validating tracking accuracy and performance
+- learning Supervisely video annotation format
 
 The pre-annotated data saves hours of manual labeling work and provides a standardized benchmark for development.
 
 All annotations are stored in Supervisely format, compatible with the platform's video annotation tools and export options.
-
-<img src="https://github.com/supervisely-ecosystem/static-camera-vehicle-tracking-sample/releases/download/v1.0.0/demo.gif" />
 
 ## Download
 
